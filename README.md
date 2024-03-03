@@ -39,3 +39,5 @@ Bankanın gelir-gider raporunu görüntüleyebilir. Ve çıkış yapabilir.
 Müşteri kendisine verilen müşteri numarası ve şifre ile giriş yaparak;
 para yatırma, para çekme, havale yapma , hesap özeti görüntüleme gibi 
 işlemleri gerçekleştirebilir.
+
+Windows Form uygulamasıdır.
